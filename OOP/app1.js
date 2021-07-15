@@ -1,4 +1,4 @@
-// An Object method
+// An Object 
 
 let car = {
     color: 'black',
